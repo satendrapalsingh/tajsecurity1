@@ -6,12 +6,12 @@ This is a single page website that I did for Taj Security Agency sometime back.
 
 http://tajsecurity.in/
 
-This repository hosts the development version, now being rewritten in react & semantic-ui.
+This repository hosts the development version, now being rewritten in react, gatsby, next.js, pug, less, express & semantic-ui.
 
 __To Do__
 - [ ] Clean up the css, remove unnecesary style rules
 - [ ] Get rid of the jquery/ rewrite components in vanilla js/es6
-- [ ] Rewrite static-site with react, gatsby & semantic-ui
+- [ ] Rewrite static-site in react, pug, less, gatsby & semantic-ui
 - [ ] Add a markdown generated static blog
 - [ ] Create an email server/ contact form with Koa, Nodemailer & Tellform
 - [ ] Create rest-API server/client, access security data over open APIs/ public dataset & display on site
