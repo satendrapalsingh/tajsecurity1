@@ -3,9 +3,10 @@
 ***Work In Progress***
 
 This is a single page website that I did for Taj Security Agency sometime back. 
+
 http://tajsecurity.in/
 
-This is the development version, now being rewritten in react & semantic-ui.
+This repository hosts the development version, now being rewritten in react & semantic-ui.
 
 __To Do__
 - [ ] Clean up the css, remove unnecesary style rules
