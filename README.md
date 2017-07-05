@@ -13,7 +13,7 @@ __To Do__
 - [ ] Get rid of the jquery/ rewrite components in vanilla js/es6
 - [ ] Rewrite static-site in react, pug, less, gatsby & semantic-ui
 - [ ] Add a markdown generated static blog
-- [ ] Create an email server/ contact form with Koa, Nodemailer & Tellform
+- [ ] Create an email server/ contact form with Express, Nodemailer & Tellform
 - [ ] Create rest-API server/client, access security data over open APIs/ public dataset & display on site
 - [ ] Convert site into a server-side-rendered SPA with next.js
 - [ ] Lint the javascript, clean up css, minimize all files, ensure site HTML5 compliant/ accessible, create amp version, tune site speed
