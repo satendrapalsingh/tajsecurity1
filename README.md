@@ -4,7 +4,9 @@
 
 This is a single page website that I did for Taj Security Agency sometime back. 
 
-http://tajsecurity.in/
+The master branch will host the node/server-side rendered app on heroku.
+
+The static branch will host live site (generated static site version) on AWS-S3 at domain http://tajsecurity.in/
 
 This repository hosts the development version, now being rewritten in react, gatsby, next.js, pug, less, express & semantic-ui.
 
