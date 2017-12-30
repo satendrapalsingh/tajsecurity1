@@ -325,9 +325,9 @@ footer {
 /* Logo */
 header hgroup {
     position: absolute;  
-    background: url(../images/tajlogo.png) no-repeat;
+    background: url(../images/taj.png) no-repeat;
     height: 57px;
-    width: 385px;
+    width: 57px;
     display: block;
     top: 8px;
     left: 0;
